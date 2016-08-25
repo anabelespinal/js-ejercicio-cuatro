@@ -1,5 +1,5 @@
 ***
-#EJERCICIO 3
+#EJERCICIO 4
 
 ~~~
 
@@ -7,7 +7,6 @@
 1-INICIO
 2-Leer datos:
       +dato uno
-      +dato dos
 3-Multiplicar datos
 4-Entregar datos
 5-Fin
